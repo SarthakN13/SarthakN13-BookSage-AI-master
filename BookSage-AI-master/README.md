@@ -155,49 +155,5 @@ graph TD
 
 ---
 
-## 🛠️ **How to Setup (Locally)**
 
-```bash
-# Clone the Repository
-git clone https://github.com/Md-Emon-Hasan/BookSage-AI.git
-cd hybrid-book-recommender
 
-# Setup Virtual Environment
-python -m venv venv
-source venv/bin/activate
-
-# Install Dependencies
-pip install -r requirements.txt
-
-# Run Flask App
-python app.py
-```
-
----
-
-## 🐳 **How to Setup (Dockerized)**
-
-```bash
-# Clone the Repository
-git clone https://github.com/Md-Emon-Hasan/BookSage-AI.git
-cd BookSage-AI
-
-# Build Docker Image
-docker build -t booksage-ai .
-
-# Run Docker Container
-docker run -p 8501:8501 booksage-ai
-```
-
----
-  
-✍️ **Prepared by:**  
-
-**Md Emon Hasan**  
-📧 **Email:** iconicemon01@gmail.com  
-💬 **WhatsApp:** [+8801834363533](https://wa.me/8801834363533)  
-🔗 **GitHub:** [Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)  
-🔗 **LinkedIn:** [Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan-695483237/)  
-🔗 **Facebook:** [Md Emon Hasan](https://www.facebook.com/mdemon.hasan2001/)
-
----
